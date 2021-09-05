@@ -1,7 +1,7 @@
 ---
 title: Writing a New Post
 author: Cotes Chung
-date: 2021-09-05 14:10:00 +0800
+date: 2021-05-09 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 ---
